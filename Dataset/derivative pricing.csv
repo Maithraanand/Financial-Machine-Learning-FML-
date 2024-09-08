@@ -1,0 +1,27 @@
+Underlying Asset Price,Strike Price (Exercise Price),Expiration Date (Maturity Date),Volatility of the Underlying Asset,Interest Rate (Risk-Free Rate),Dividend Yield (if applicable),Time to Maturity,Option Type,Market Conditions,Exercise Style,Implied Volatility (for Options),Futures Price (for Futures Contracts),Cost of Carry
+125.5,120,2024-03-16,0.25,0.02,0.03,60,Call,Volatile,European,0.3,130,0.01
+98.2,100,2024-06-15,0.15,0.01,0.02,90,Put,Stable,American,0.2,105,0.005
+54.1,50,2024-09-10,0.3,0.03,0.04,120,Call,Neutral,European,0.35,60,0.015
+76.9,75,2024-12-12,0.2,0.02,0.03,150,Put,Bearish,American,0.25,80,0.01
+33.4,30,2025-03-11,0.4,0.04,0.05,180,Call,Bullish,European,0.4,40,0.02
+21.1,20,2025-06-09,0.35,0.035,0.06,210,Put,Volatile,American,0.38,30,0.015
+87.6,85,2025-09-10,0.25,0.025,0.035,240,Call,Stable,European,0.3,90,0.0125
+42.8,40,2025-12-08,0.3,0.03,0.04,270,Put,Neutral,American,0.32,50,0.015
+63.5,60,2026-03-11,0.2,0.025,0.03,300,Call,Bearish,European,0.28,70,0.0125
+95.3,95,2026-06-08,0.15,0.02,0.025,330,Put,Bullish,American,0.22,100,0.01
+18.5,15,2026-09-09,0.45,0.045,0.07,360,Call,Volatile,European,0.45,20,0.02
+71.9,70,2026-12-07,0.2,0.03,0.035,390,Put,Neutral,American,0.25,80,0.015
+55.7,50,2027-03-08,0.3,0.025,0.04,420,Call,Bearish,European,0.32,60,0.0125
+29.1,25,2027-06-06,0.35,0.035,0.06,450,Put,Bullish,American,0.36,35,0.015
+83.2,80,2027-09-05,0.25,0.03,0.035,480,Call,Volatile,European,0.3,90,0.0125
+42.1,35,2027-12-04,0.38,0.04,0.055,510,Put,Neutral,American,0.38,50,0.0175
+67.4,60,2028-03-07,0.22,0.025,0.04,540,Call,Bearish,European,0.29,70,0.0125
+31.9,25,2028-06-05,0.4,0.045,0.065,570,Put,Bullish,American,0.42,40,0.02
+48.9,40,2028-09-03,0.32,0.035,0.05,600,Call,Volatile,European,0.35,55,0.015
+75.6,70,2028-12-02,0.24,0.03,0.035,630,Put,Neutral,American,0.28,80,0.0175
+58.7,50,2029-03-01,0.28,0.025,0.04,660,Call,Bearish,European,0.31,65,0.0125
+39.5,30,2029-06-28,0.42,0.045,0.065,690,Put,Bullish,American,0.45,45,0.02
+62.3,55,2029-09-25,0.34,0.035,0.05,720,Call,Volatile,European,0.38,70,0.015
+89.1,80,2029-12-23,0.26,0.03,0.035,750,Put,Neutral,American,0.29,90,0.0175
+53.9,45,2030-03-20,0.29,0.025,0.04,780,Call,Bearish,European,0.32,60,0.0125
+43.1,35,2030-06-17,0.41,0.045,0.065,810,Put,Bullish,American,0.43,50,0.02
